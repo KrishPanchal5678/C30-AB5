@@ -45,4 +45,11 @@ class SlingShot{
         }
     }
     
+attach(B)
+{
+
+    this.sling.bodyA = B;
+
+}
+
 }
